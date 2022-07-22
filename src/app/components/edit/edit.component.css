@@ -1,0 +1,30 @@
+.event_view{
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 75%;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+
+tr,th{
+    border: 1px solid black;
+    
+    
+}
+
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+tr{
+    width: 100px;
+}
+
+.delete-button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

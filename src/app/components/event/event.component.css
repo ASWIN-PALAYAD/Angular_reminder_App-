@@ -1,0 +1,37 @@
+.eventBackground{
+    background-image: url(../../../assets/images/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.event_view{
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 75%;
+    text-align: center;
+    background-color: rgb(81, 188, 205);
+    
+
+
+}
+
+tr,th{
+    border: 1px solid black;
+    
+    
+}
+
+h2{
+    text-align: center;
+    /* margin-top: 10px; */
+}
+tr{
+    width: 100px;
+}
+
+.delete-button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

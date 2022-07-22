@@ -1,0 +1,18 @@
+.dashboard{
+   
+    background-image: url(../../../assets/images/edittwo.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    
+}
+
+
+.event_section{
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.event_form{
+    /* border: 2px solid black ; */
+}

@@ -1,0 +1,33 @@
+.register_background{
+    background-image: url(../../../assets/images/reminder-791271.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+}
+
+.register_form{
+    border: 2px solid rgb(126, 122, 122);
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 90px;
+    
+    
+
+
+}
+.register_form h3{
+    text-align: center;
+    color: red;
+
+}
+label{
+    color: white;
+    font-weight: bolder;
+    
+}
+.login-link,span{
+    
+    color: white;
+    text-decoration: none;
+}
